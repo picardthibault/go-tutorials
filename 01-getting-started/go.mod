@@ -1,0 +1,3 @@
+module tutorial/hello-world
+
+go 1.26.1
